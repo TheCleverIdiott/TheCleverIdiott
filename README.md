@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [AI Sentimental Analysis Tool](https://github.com/TheCleverIdiott/SENMETER)
 
-- 🌱 I’m currently learning **M.E.R.N.**
-
 - 📫 How to reach me **aritrag1905@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
