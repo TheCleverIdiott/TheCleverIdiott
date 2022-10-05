@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [AI Sentimental Analysis Tool](https://github.com/TheCleverIdiott/SENMETER)
 
-- 📫 How to reach me **aritrag1905@gmail.com**
+- 📫 How to reach me [My Email](**aritrag1905@gmail.com**)
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences at [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
