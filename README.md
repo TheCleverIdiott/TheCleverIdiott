@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aritra Ghosh, aka TheCleverIdiott</h1>
 <h3 align="center">A passionate techie from India.</h3>
 
+<div align="center">
+    <img src="https://github.com/TheCleverIdiott/priv-/blob/main/int%20ban.jpeg" alt="Logo">
+  </a>
+ </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat" alt="thecleveridiott" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott" alt="thecleveridiott" /></a> </p>
