@@ -2,7 +2,7 @@
 <h3 align="center">A passionate techie from India.</h3>
 
 <div align="center">
-    <img src="https://github.com/TheCleverIdiott/priv-/blob/main/int%20ban.jpeg" alt="Logo">
+    <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/int%20ban.jpeg" alt="Logo">
   </a>
  </div>
 
