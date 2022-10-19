@@ -1,4 +1,4 @@
-![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/git%20mast.gif)
+![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
 <h1 align="center">👋</h1>
 <h2 align="center">A passionate techie from India.</h2>
