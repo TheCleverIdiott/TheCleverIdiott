@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aritra Ghosh, aka TheCleverIdiott</h1>
+![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/cover%20vid.gif)
+
+<h1 align="center">Hi 👋, this is Aritra, aka TheCleverIdiott</h1>
 <h3 align="center">A passionate techie from India.</h3>
 
-<div align="center">
-    <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/cover%20vid.gif" alt="Logo">
-  </a>
- </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat" alt="thecleveridiott" /> </p>
 
