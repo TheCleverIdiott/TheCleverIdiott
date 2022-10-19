@@ -1,4 +1,4 @@
-![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Mast.gif)
+![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/git%20mast.gif)
 
 <h1 align="center">Hi 👋, this is Aritra, aka TheCleverIdiott</h1>
 <h3 align="center">A passionate techie from India.</h3>
