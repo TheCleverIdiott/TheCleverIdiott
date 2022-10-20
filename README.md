@@ -43,6 +43,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=radical" alt="thecleveridiott" /></p>
 
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
 
 
