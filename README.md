@@ -61,6 +61,9 @@ I like to listen to or create music and editing videos for fun.
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&theme=radical) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=radical" alt="thecleveridiott" /> |
 | --- | --- |
 
+_______________________________________________________________________________________________________________________________________________________________________
+
+
 <p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/stickman%20dance.gif"/> </p>
 
 
