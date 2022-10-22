@@ -18,8 +18,7 @@
 -  Reach me via email @ aritrag1905@gmail.com
 -  Know about my experiences from [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br>
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
