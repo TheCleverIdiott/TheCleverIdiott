@@ -29,8 +29,6 @@ I like to listen to or create music and editing videos for fun.
 --->
 
 <br>
-<br>
-
 
 - An AI/ML enthusiast
 - Currently learning M.E.R.N
