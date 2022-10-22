@@ -15,7 +15,7 @@ ________________________________________________________________________________
 <h4 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h4>
 
 <br>
-<p>
+<p style="text-align: justify;">
 Currently a CS sophomore.
 Kolkata native with a passion for web development, app development and a keen interest in AI-ML projects.
 Some of my other skills include, MS Office, Photoshop, DaVinci Resolve.
