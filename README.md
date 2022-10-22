@@ -15,7 +15,7 @@ ________________________________________________________________________________
 <h4 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h4>
 
 <br>
-<p align='center'>Currently a CS sophomore.
+<p align='center'>Currently a sophomore, soon to graduate with a Bachelor of Technology degree in Computer Science and Engineering.
 Kolkata native with a passion for web development, app development and a keen interest in AI-ML projects.
 Some of my other skills include, MS Office, Photoshop, DaVinci Resolve.
 As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.
