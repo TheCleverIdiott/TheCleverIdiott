@@ -8,8 +8,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott" alt="thecleveridiott" /></a> </p>
 
+<!---
 <p align="left"> <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> </p>
-
+--->
 
 -  Reach me via email @ aritrag1905@gmail.com
 -  Know about my experiences from [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
