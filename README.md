@@ -38,9 +38,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
 --->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=radical" alt="thecleveridiott" /></p>
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&theme=radical) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=radical" alt="thecleveridiott" /> |
+| --- | --- |
 
 
 _______________________________________________________________________________________________________________________________________________________________________
