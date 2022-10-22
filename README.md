@@ -3,15 +3,26 @@
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
 <h1 align="center">👋</h1>
-<h4 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h4> 
-
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott" alt="thecleveridiott" /></a> </p>
+ 
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+<h4 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h4>
+
+<br>
+<p>
+Currently a CS sophomore.
+Kolkata native with a passion for web development, app development and a keen interest in AI-ML projects.
+Some of my other skills include, MS Office, Photoshop, DaVinci Resolve.
+As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.
+In my free time you can find me doing competitive coding.
+I like to listen to or create music and editing videos for fun.
+</p>
 
 <!---
 <p align="left"> <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> </p>
