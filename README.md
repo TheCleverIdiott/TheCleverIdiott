@@ -3,7 +3,7 @@
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
 <h1 align="center">👋</h1>
-<h3 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h3> 
+<h3 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="40" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="40" /> </h3> 
 
 
 _______________________________________________________________________________________________________________________________________________________________________
