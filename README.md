@@ -64,7 +64,7 @@ I like to listen to or create music and editing videos for fun.
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-<p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/stickman%20dance.gif"/> </p>
+<p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/> </p>
 
 
 _______________________________________________________________________________________________________________________________________________________________________
