@@ -24,9 +24,8 @@ I like to listen to or create music and editing videos for fun.
 </p>
 
 
-<!---
+
 <p align="left"> <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> </p>
---->
 
 <br>
 
