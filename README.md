@@ -7,7 +7,7 @@
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott" alt="thecleveridiott" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&margin-w=15" alt="thecleveridiott" /></a> </p>
  
 _______________________________________________________________________________________________________________________________________________________________________
 
