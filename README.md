@@ -1,6 +1,9 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat" alt="thecleveridiott" /></p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat" alt="thecleveridiott" />
 
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
+ 
+</div>
 
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
@@ -76,14 +79,15 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-<p align="center">
+<div align="center">
+
 <h3> My Holopin Board </h3>
 
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
 
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
 
-</p>
+</div>
 
 <!---
 TheCleverIdiott/TheCleverIdiott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
