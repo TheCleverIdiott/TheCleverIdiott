@@ -62,9 +62,9 @@ I like to listen to or create music and editing videos for fun.
 <br>
 <br>
 
-
+<!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
-
+--->
 
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&theme=merko) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" alt="thecleveridiott" /> |
 | --- | --- | 
