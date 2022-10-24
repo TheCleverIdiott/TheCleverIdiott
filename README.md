@@ -76,11 +76,14 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+<p align="center">
 <h3> My Holopin Board </h3>
 
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
 
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
+
+</p>
 
 <!---
 TheCleverIdiott/TheCleverIdiott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
