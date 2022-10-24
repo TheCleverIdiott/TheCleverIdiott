@@ -70,13 +70,6 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-
-<p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/> </p>
-
-
-_______________________________________________________________________________________________________________________________________________________________________
-
-
 <div align="center">
 
 <h3> My Holopin Board </h3>
@@ -86,6 +79,13 @@ ________________________________________________________________________________
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
 
 </div>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+<p align="center">Watch a dinosaur jumping over cactuses for no apparent reason :)</p>
+<p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/></p>
+
+
 
 <!---
 TheCleverIdiott/TheCleverIdiott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
