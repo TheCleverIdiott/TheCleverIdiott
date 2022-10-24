@@ -36,12 +36,12 @@ I like to listen to or create music and editing videos for fun.
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
+**Connect with me on:**
 <a  href="https://www.linkedin.com/in/aritraghosh1905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/AritraG_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:aritrag1905@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
+
 
 <!---
 <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> 
