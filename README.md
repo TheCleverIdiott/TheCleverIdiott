@@ -23,9 +23,9 @@ In my free time you can find me doing competitive coding.
 I like to listen to or create music and editing videos for fun.
 </p>
 
-
-
+<!---
 <p align="left"> <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> </p>
+--->
 
 <br>
 
@@ -38,7 +38,10 @@ I like to listen to or create music and editing videos for fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> 
+<!---
 <a href="https://twitter.com/aritrag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrag_" height="30" width="40" /></a>
+--->
 <a href="https://linkedin.com/in/aritraghosh1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritraghosh1905" height="30" width="40" /></a>
 </p>
 
