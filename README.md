@@ -39,7 +39,7 @@ I like to listen to or create music and editing videos for fun.
 -  Reach me via email @ aritrag1905@gmail.com
 -  Know about my experiences from [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,7 +53,6 @@ I like to listen to or create music and editing videos for fun.
 <a href="https://twitter.com/aritrag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrag_" height="30" width="40" /></a>
 --->
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
