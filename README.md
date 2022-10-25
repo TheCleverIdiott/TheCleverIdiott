@@ -17,6 +17,7 @@
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
 <h1 align="center">👋 ✨</h1>
+<br>
 
 <h3>About Me</h3>
 <p align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </p>
