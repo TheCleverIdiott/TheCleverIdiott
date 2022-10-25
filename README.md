@@ -1,9 +1,10 @@
+<div align="right">
 <a href="About-Me">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Languages-and-Tools">[Technologies]</a>
 <a href="#GitHub-Metrics">[Metrics]</a>
 <a href="#My-Holopin-Board">[Holopin]</a>
-
+</div>
 
 <br>
 <div align="left">
