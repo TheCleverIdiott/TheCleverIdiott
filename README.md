@@ -1,9 +1,9 @@
 
-<a href="About-Me">About</a>
-<a href="#Connect-with-me-on">Contact</a>
-<a href="#Languages-and-Tools">Technologies</a>
-<a href="#GitHub-Metrics">Metrics</a>
-<a href="#My-Holopin-Board">Holopin</a>
+<div><a href="About-Me">About</a></div>
+<div><a href="#Connect-with-me-on">Contact</a></div>
+<div><a href="#Languages-and-Tools">Technologies</a></div>
+<div><a href="#GitHub-Metrics">Metrics</a></div>
+<div><a href="#My-Holopin-Board">Holopin</a></div>
 
 
 
