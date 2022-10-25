@@ -1,4 +1,5 @@
-<a href="#Connect-with-me-on">Connect with me on</a>
+<a href="About-Me">About</a>
+<a href="#Connect-with-me-on">Contact</a>
 
 
 
