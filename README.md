@@ -3,6 +3,7 @@
 <a href="#Connect-with-me-on">Contact</a>
 <a href="#Languages-and-Tools">Technologies</a>
 <a href="#GitHub-Metrics">Metrics</a>
+<a href="#My-Holopin-Board">Holopin</a>
 
 
 
@@ -82,7 +83,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-<h3> My Holopin Board </h3>
+<h3>My Holopin Board</h3>
 
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
 
