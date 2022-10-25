@@ -1,9 +1,8 @@
-
-<a href="#Connect with me on:">Contact</a>
-
+<a href="#Connect with me on:">Connect with me on:</a>
 
 
 
+<br>
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat" alt="thecleveridiott" />
 
@@ -15,8 +14,8 @@
 
 <h1 align="center">👋 ✨</h1>
 
-
-<h4 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h4>
+<h3>About Me</h3>
+<p align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </p>
 
 <br>
 <p align='center'>Currently a sophomore, soon to graduate with a Bachelor of Technology degree in Computer Science and Engineering.
