@@ -17,7 +17,10 @@
 
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
-<h1 align="center">👋 ✨</h1>
+<p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/hello.gif" alt="Meaow" width="100" /> </p>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
 <br>
 
 <h3>About Me</h3>
