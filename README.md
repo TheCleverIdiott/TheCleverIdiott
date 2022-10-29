@@ -17,7 +17,7 @@
 
 ![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
 
-<p align="center"> <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/hello.gif" alt="Meaow" width="100" /> </p>
+<p align="center"> <img src=https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="65" /> </p>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
