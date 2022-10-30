@@ -128,7 +128,7 @@ ________________________________________________________________________________
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
 
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&theme=merko) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" alt="thecleveridiott" /> |
+| ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" alt="thecleveridiott" /> |
 | --- | --- | 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=thecleveridiott&theme=vue)](https://github.com/thecleveridiott/github-readme-activity-graph)
