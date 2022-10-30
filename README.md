@@ -45,8 +45,17 @@ I like to listen to or create music and editing videos for fun.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+ 
+ <div align="center">
+ 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ 
+ 
+ </div>
+ 
 
-
+_______________________________________________________________________________________________________________________________________________________________________
+ 
 <h3>Connect with me on</h3>
 
 <a  href="https://www.linkedin.com/in/aritraghosh1905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -116,17 +125,6 @@ Others:
  
 _______________________________________________________________________________________________________________________________________________________________________
 
- 
- <div align="center">
- 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- 
- 
- </div>
- 
- 
-_______________________________________________________________________________________________________________________________________________________________________
- <h3>GitHub Metrics:</h3>
 
 <!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
