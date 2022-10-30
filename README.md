@@ -21,13 +21,10 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-<br>
-
 <h3>About Me</h3>
 
 <p align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </p>
 
-<br>
 <p align='center'>Currently a sophomore, soon to graduate with a Bachelor of Technology degree in Computer Science and Engineering.
 Kolkata native with a passion for web development, app development and a keen interest in AI-ML projects.
 Some of my other skills include, MS Office, Photoshop, DaVinci Resolve.
@@ -40,13 +37,11 @@ I like to listen to or create music and editing videos for fun.
 <p align="left"> <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> </p>
 --->
 
-<br>
 
 - An AI/ML enthusiast
 - Currently learning M.E.R.N
 -  Know about my experiences from [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
