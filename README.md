@@ -127,7 +127,7 @@ ________________________________________________________________________________
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
 
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
