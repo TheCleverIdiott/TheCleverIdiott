@@ -151,7 +151,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-<p align="center">Watch a dinosaur jumping over cactuses for no apparent reason :)</p>
+<p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/></p>
 
 
