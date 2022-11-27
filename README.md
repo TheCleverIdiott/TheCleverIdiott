@@ -62,13 +62,11 @@ ________________________________________________________________________________
 <a href="https://twitter.com/AritraG_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:aritrag1905@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<!---
- <a href="https://dev.to/thecleveridiott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thecleveridiott" height="30" width="40" /></a>
- --->
+<a href="https://dev.to/thecleveridiott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thecleveridiott" height="30" width="40" /></a>
 
 <!---
 <a href="https://twitter.com/aritrag_" target="blank"><img src="https://img.shields.io/twitter/follow/aritrag_?logo=twitter&style=for-the-badge" alt="aritrag_" /></a> 
-<a href="https://twitter.com/aritrag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrag_" height="30" width="40" /></a>
+<a href="https://twitter.com/aritrag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrag_" height="30px" width="40px" /></a>
 --->
 
 _______________________________________________________________________________________________________________________________________________________________________
