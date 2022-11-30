@@ -4,7 +4,7 @@
 <a href="#About-Me">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Languages-and-Tools">[Technologies]</a>
-<a href="#GitHub-Metrics">[Metrics]</a>
+<a href="#My-GitHub-Metrics">[Metrics]</a>
 <a href="#My-Holopin-Board">[Holopin]</a>
 </div>
 
@@ -125,9 +125,7 @@ Others:
  
 _______________________________________________________________________________________________________________________________________________________________________
 
-<!--- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecleveridiott&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---->
+ <h3>My GitHub Metrics</h3>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
  
