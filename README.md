@@ -125,9 +125,6 @@ Others:
  
 _______________________________________________________________________________________________________________________________________________________________________
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /></p>
-
 <!--- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecleveridiott&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
@@ -137,9 +134,9 @@ ________________________________________________________________________________
 
 
 | ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" alt="thecleveridiott" /> |
-| --- | --- | 
+| --- | --- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" alt="thecleveridiott" /> | [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=thecleveridiott&theme=vue)](https://github.com/thecleveridiott/github-readme-activity-graph) | 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=thecleveridiott&theme=vue)](https://github.com/thecleveridiott/github-readme-activity-graph)
 
 _______________________________________________________________________________________________________________________________________________________________________
 
