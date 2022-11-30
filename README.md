@@ -134,15 +134,7 @@ ________________________________________________________________________________
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
  
-<div align="center"> 
- 
- <h3> 
- 
- [Click to view Other Achievements](https://github.com/TheCleverIdiott?tab=achievements) 
- 
- </h3>
- 
-</div>
+
 
 | ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" alt="thecleveridiott" /> |
 | --- | --- | 
