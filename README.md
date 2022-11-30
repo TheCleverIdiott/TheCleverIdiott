@@ -40,9 +40,7 @@ I like to listen to or create music and editing videos for fun.
 
 - An AI/ML enthusiast
 - Currently learning M.E.R.N
--  Know about my experiences from [My Resume](https://www.canva.com/design/DAFDxd1d36I/iUpHXZbyqyY1tHmh8yliJA/view?utm_content=DAFDxd1d36I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
+-  Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -51,10 +49,8 @@ ________________________________________________________________________________
  
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
  
- 
  </div>
  
-
 _______________________________________________________________________________________________________________________________________________________________________
  
 <h3>Connect with me on</h3>
