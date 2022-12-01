@@ -34,7 +34,7 @@ In my free time you can find me doing competitive coding.
 I like to listen to or create music and editing videos for fun.
 </p>
 
-<table align="center" style="border: 0">
+<table align="center" style="border:1px hidden">
 <tr>
 <td>
  
