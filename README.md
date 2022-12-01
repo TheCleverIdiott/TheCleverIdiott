@@ -41,6 +41,7 @@ I like to listen to or create music and editing videos for fun.
 - An AI/ML enthusiast
 - Currently learning M.E.R.N
 -  Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
+- View a more detailed profile [here](https://github.com/TheCleverIdiott)
 
 _______________________________________________________________________________________________________________________________________________________________________
 
