@@ -33,12 +33,12 @@ As for my future, I want to be a software developer for one of the top tech comp
 In my free time you can find me doing competitive coding.
 I like to listen to or create music and editing videos for fun.
 </p>
-
+ 
 * [x] An AI/ML enthusiast
 * [x] Currently learning M.E.R.N
 * [x] A Web Developer
 * [ ] Software Developer
- 
+
 - Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 - View a more detailed profile [here](https://github.com/TheCleverIdiott/)
  
