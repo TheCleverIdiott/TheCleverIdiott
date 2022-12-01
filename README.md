@@ -34,10 +34,27 @@ In my free time you can find me doing competitive coding.
 I like to listen to or create music and editing videos for fun.
 </p>
 
-- An AI/ML enthusiast
-- Currently learning M.E.R.N
+<table align="center">
+<tr>
+<td>
+ 
+I am
+ 
+* [x] An AI/ML enthusiast
+* [x] Currently learning M.E.R.N
+* [x] A Web Developer
+* [ ] Software Developer
+ 
+</td>
+<td>
+ 
 - Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 - View a more detailed profile [here](https://github.com/TheCleverIdiott/)
+ 
+</td>
+</tr>
+</table>
+ 
 _______________________________________________________________________________________________________________________________________________________________________
 
  <div align="center">
