@@ -116,7 +116,7 @@ ________________________________________________________________________________
 
 | ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=merko" width="380" alt="thecleveridiott"> |
 | --- | --- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" width="680" alt="thecleveridiott" /> | [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=thecleveridiott&theme=vue)](https://github.com/thecleveridiott/github-readme-activity-graph) | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" width="680" alt="thecleveridiott" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheCleverIdiott&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
