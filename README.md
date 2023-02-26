@@ -124,11 +124,11 @@ ________________________________________________________________________________
 
 <h3>My Holopin Board</h3>
  
-<div width:"10px">
+<div width:"10%">
  
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
  
- </div>
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
 
