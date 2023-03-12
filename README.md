@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9000&lines=Web+Dev%2C+AI/ML%2C+Open+Source%2C+Blogs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Web+Dev%2C+AI/ML%2C+Open+Source%2C+Blogs)](https://git.io/typing-svg)
  
  </div>
 
