@@ -134,6 +134,8 @@ I like to listen to or create music and editing videos for fun.
 <p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/></p>
  
+ [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
+ 
  
 <!---
 <code><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </code>
