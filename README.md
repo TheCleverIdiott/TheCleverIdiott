@@ -42,7 +42,7 @@ I like to listen to or create music and editing videos for fun.
 - Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 - View a more detailed profile [here](https://github.com/TheCleverIdiott/)
  
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
  
  
  <div align="center">
