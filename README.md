@@ -1,4 +1,4 @@
-<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></div>
+<div align="left"><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="50" /></div>
 
 
 <div align="right">Go to:</div>
@@ -26,8 +26,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
  
  </div>
-
-<p align="center"> <img src=https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="65" /> </p>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
