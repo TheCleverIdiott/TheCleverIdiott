@@ -20,7 +20,7 @@
 
 <p align="center"> <img src=https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="65" /> </p>
 
-_______________________________________________________________________________________________________________________________________________________________________
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <h3>About Me</h3>
 
