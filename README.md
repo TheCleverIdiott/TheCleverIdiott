@@ -42,8 +42,7 @@ I like to listen to or create music and editing videos for fun.
 - Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 - View a more detailed profile [here](https://github.com/TheCleverIdiott/)
  
-_______________________________________________________________________________________________________________________________________________________________________
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
  
  <div align="center">
@@ -53,7 +52,7 @@ ________________________________________________________________________________
  </div>
  
  
-_______________________________________________________________________________________________________________________________________________________________________
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <h3>Connect with me on</h3>
  
@@ -63,7 +62,7 @@ ________________________________________________________________________________
 <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/thecleveridiott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thecleveridiott" height="30" width="40" /></a>
 
-___________________________________________________________________________________________________________________________________________________________________
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -108,7 +107,7 @@ ________________________________________________________________________________
 
 </p>
  
-_______________________________________________________________________________________________________________________________________________________________________
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
  <h3>My GitHub Metrics</h3>
  
@@ -118,8 +117,8 @@ ________________________________________________________________________________
 | --- | --- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=radical" width="680" alt="thecleveridiott" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheCleverIdiott&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
-_______________________________________________________________________________________________________________________________________________________________________
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+ 
 <div align="center">
 
 <h3>My Holopin Board</h3>
@@ -134,7 +133,7 @@ ________________________________________________________________________________
 
 </div>
 
-_______________________________________________________________________________________________________________________________________________________________________
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/></p>
