@@ -1,4 +1,4 @@
-<div align="left"><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="30" /></div>
+<div align="left"><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="40" /></div>
 
 
 <div align="right">Go to:</div>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Web+Dev%2C+AI/ML)](https://git.io/typing-svg)
  
  </div>
 
