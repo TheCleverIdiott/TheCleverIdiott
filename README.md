@@ -47,10 +47,7 @@ I like to listen to or create music and editing videos for fun.
 * [ ] Software Developer
 
 - Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
-- View a more detailed profile [here](https://github.com/TheCleverIdiott/)
- 
 
- 
  
  <div align="center">
  
