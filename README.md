@@ -33,12 +33,9 @@
 
 <p align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </p>
 
-<p align='center'>Currently a sophomore, soon to graduate with a Bachelor of Technology degree in Computer Science and Engineering.
-Kolkata native with a passion for web development, app development and a keen interest in AI-ML projects.
-Some of my other skills include, MS Office, Photoshop, DaVinci Resolve.
-As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.
-In my free time you can find me doing competitive coding.
-I like to listen to or create music and editing videos for fun.
+<p align='center'>Currently a Computer Science Sophomore with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
+Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
+Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.
 </p>
  
 * [x] An AI/ML enthusiast
