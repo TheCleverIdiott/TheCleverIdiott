@@ -43,7 +43,6 @@ Strong communication and collaboration skills, with a desire to continuously lea
 * [x] A Web Developer
 * [ ] Software Developer
 
-- Know about my experiences from [My Resume](https://drive.google.com/file/d/11PmEFGfsOmzxwwNtX1jsk-9uXOgde6nC/view?usp=sharing)
 
  
  <div align="center">
