@@ -39,9 +39,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 </p>
  
 * [x] An AI/ML enthusiast
-* [x] Currently learning M.E.R.N
 * [x] A Web Developer
-* [ ] Software Developer
 
 
  
