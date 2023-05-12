@@ -111,11 +111,13 @@ Strong communication and collaboration skills, with a desire to continuously lea
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=juicyfresh&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
 
-| ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=transperant" width="380" alt="thecleveridiott"> |
+| ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) |
 | --- | --- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=transparent" width="680" alt="thecleveridiott" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheCleverIdiott&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
+
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
  
 <div align="center">
 
