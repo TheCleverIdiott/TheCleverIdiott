@@ -45,7 +45,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
  
  <div align="center">
  
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transperant)
  
  </div>
  
