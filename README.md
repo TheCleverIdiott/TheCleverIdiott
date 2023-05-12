@@ -109,7 +109,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
  <h3>My GitHub Metrics</h3>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=alduin&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=transperant&no-frame=true&column=-1" alt="thecleveridiott" /></a> </p>
 
 | ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecleveridiott&theme=transperant" width="380" alt="thecleveridiott"> |
 | --- | --- |
