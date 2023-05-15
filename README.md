@@ -42,7 +42,6 @@ Strong communication and collaboration skills, with a desire to continuously lea
 * [x] A Web Developer
 
 
- 
  <div align="center">
  
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&no-bg=true)
