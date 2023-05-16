@@ -1,6 +1,5 @@
 <div align="left"><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="40" /></div>
 
-
 <div align="right">Go to:</div>
 
 <div align="right">
