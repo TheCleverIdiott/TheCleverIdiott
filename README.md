@@ -1,4 +1,4 @@
-<div align="left"><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" alt="Hello" width="40" /></div>
+<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="40" /></div>
 
 <div align="right">Go to:</div>
 
@@ -30,7 +30,7 @@
 
 <h3>About Me</h3>
 
-<p align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> A passionate techie from India <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </p>
+ A passionate techie from India.
 
 <p align='center'>Currently a Computer Science Sophomore with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
 Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
