@@ -1,4 +1,4 @@
-<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="40" /></div>
+<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>
 
 <div align="right">Go to:</div>
 
