@@ -68,21 +68,29 @@ Strong communication and collaboration skills, with a desire to continuously lea
 	<td><strong>Design & Editing</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,sqlite,bootstrap,flask,heroku,react,threejs" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,sqlite,bootstrap,flask,netlify,heroku,react,threejs" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=ae,figma,ai,xd&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark"></td>
 </tr>
 </table>
 <table>
 <tr>
 	<td><strong>AI/ML</strong></td>
 	<td><strong>Dev Ops</strong></td>
-	<td><strong>Design & Editing</strong></td>
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></td>
-		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,docker,firebase,gcp,github,gitlab,heroku,postman,replit,linux,git&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=ae,figma,ai,xd&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,docker,firebase,gcp,verrcel,github,gitlab,heroku,appwrite,postman,replit,linux,git&theme=dark"></td>
+</tr>
+</table>
+<table>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><strong>Others</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,php,py,rails"></td>
+		<td><img src = "https://skillicons.dev/icons?i=woordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark"></td>
 </tr>
 </table>
 
