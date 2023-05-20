@@ -79,7 +79,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 	<td><strong>Dev Ops</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
 		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,docker,firebase,gcp,github,gitlab,heroku,appwrite,postman,replit,linux,git&theme=dark"></td>
 </tr>
 </table>
@@ -90,7 +90,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,php,py,rails"></td>
-		<td><img src = "https://skillicons.dev/icons?i=woordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark"></td>
 </tr>
 </table>
 
