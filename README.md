@@ -51,8 +51,8 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
 <a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark"></a>
 <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
-<a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark"</a>
-<a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark"</a>
+<a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark"></a>
+<a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark"></a>
 <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
