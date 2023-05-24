@@ -44,7 +44,6 @@ Strong communication and collaboration skills, with a desire to continuously lea
  
  </div>
  
- 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <h3>Connect with me on</h3>
