@@ -5,7 +5,7 @@
 <div align="right">
 <a href="#About-Me">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
-<a href="#Languages-and-Tools">[Technologies]</a>
+<a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
 <a href="#My-Holopin-Board">[Holopin]</a>
 </div>
@@ -57,7 +57,8 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
-<h3 align="left">Languages and Tools</h3>
+
+## 💻 Tech Stack:
 
 <p> 
  
@@ -98,7 +99,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
  
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
- <h3>My GitHub Metrics</h3>
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> My GitHub Metrics
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="thecleveridiott" /></a> </p>
 
