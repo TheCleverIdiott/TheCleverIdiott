@@ -108,7 +108,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 | --- | --- | --- |
 
 
-[![Aritra's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
