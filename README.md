@@ -103,9 +103,12 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="thecleveridiott" /></a> </p>
 
-| ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=contribs) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) |
-| --- | --- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" width="680" alt="thecleveridiott" /> | [![TheCleverIdiott GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheCleverIdiott&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
+
+| ![](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&theme=merko&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=contribs) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" alt="thecleveridiott" /> |
+| --- | --- | --- |
+
+
+ [![TheCleverIdiott GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheCleverIdiott&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) 
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
