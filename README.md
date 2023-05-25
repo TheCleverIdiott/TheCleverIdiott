@@ -7,7 +7,6 @@
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
-<a href="#My-Holopin-Board">[Holopin]</a>
 </div>
 
 <br>
@@ -108,21 +107,11 @@ Strong communication and collaboration skills, with a desire to continuously lea
 | --- | --- | --- |
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+| [![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+| --- |
+[![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
 
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
- 
-<div align="center">
-
-<h3>My Holopin Board</h3>
- 
-<div width:"10%">
- 
-[![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot)
- 
-</div>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
