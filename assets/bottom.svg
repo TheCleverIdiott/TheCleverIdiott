@@ -12,7 +12,7 @@ svg {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #2C5364; 
+  fill: #283635; 
 }
 
 .wave:hover {
@@ -28,6 +28,11 @@ svg {
 #wave3 {
   animation-duration: 3s;
   opacity:.6;
+}
+  
+#wave4 {
+  animation-duration: 1s;
+  opacity:.3
 }
 
 @keyframes wave {
@@ -50,4 +55,5 @@ svg {
   </defs> 
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+  <use id="wave4" class="wave" xlink:href="#wave" x="0" y="-2" ></use>
 </svg>
