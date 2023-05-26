@@ -127,7 +127,12 @@ Skilled in programming languages such as Python, C++ and React with experience i
 | --- |
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
 
+---
 
+<!-- BLOG-CONTENT-LIST:START --> 
+<!-- BLOG-CONTENT-LIST:END --> 
+
+---
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
