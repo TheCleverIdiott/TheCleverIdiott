@@ -132,12 +132,15 @@ Skilled in programming languages such as Python, C++ and React with experience i
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
-<p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/Dino_non-birthday_version.gif"/></p>
+<p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/Dino_non-birthday_version.gif"/></p>
  
  <div align="center">
 	
  [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
  
+	
+<p align="center"><img src= "https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg"/></p>
+	
 </div>
  
 <!---
