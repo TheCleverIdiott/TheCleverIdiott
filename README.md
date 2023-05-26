@@ -17,7 +17,7 @@
  
 </div>
 
-![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/mast.gif)
+![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mast.gif)
 
 <div align="center">
 
