@@ -18,7 +18,16 @@
  
 </div>
 
-![MastHead](https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mast.gif)
+<table>
+	<tr>
+		<td>
+		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mast.gif" />
+		</td>
+		<td>
+		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.svg" width=400/>
+		</td>
+	</tr>
+</table>
 
 <div align="center">
 
