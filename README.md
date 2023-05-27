@@ -126,6 +126,21 @@ Skilled in programming languages such as Python, C++ and React with experience i
 ---
 
 <!-- BLOG-CONTENT-LIST:START --> 
+
+<p align="left">
+<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/>
+<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
+<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single... </p> <br/> <br/>
+
+<p align="left">
+<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/>
+<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
+<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single... </p> <br/> <br/>
+
+<p align="left">
+<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/>
+<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
+<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single... </p> <br/> <br/>
 <!-- BLOG-CONTENT-LIST:END --> 
 
 ---
