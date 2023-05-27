@@ -62,20 +62,16 @@ Skilled in programming languages such as Python, C++ and React with experience i
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <h3>Connect with me on:</h3>
-
-<a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark"></a>
-<a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
-<a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark"></a>
-<a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark"></a>
+<a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
+<a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
+<a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
+<a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
-
 <h3>Tech Stack:</h3>
-
-<p> 
  
 <table>
 <tr>
@@ -85,8 +81,8 @@ Skilled in programming languages such as Python, C++ and React with experience i
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,sqlite,bootstrap,flask,netlify,heroku,react,threejs" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark" height=38></td>
 </tr>
 </table>
 <table>
@@ -105,12 +101,12 @@ Skilled in programming languages such as Python, C++ and React with experience i
 	<td><strong>Others</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,php,py,rails"></td>
-		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,php,py,rails" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark" height=38></td>
 </tr>
 </table>
 
-</p>
+
  
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
