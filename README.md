@@ -24,7 +24,7 @@
 		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mncrftbg.gif" />
 		</td>
 		<td>
-		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.svg" width=400/>
+		<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=4ap" width="400" alt="Aritra Ghosh's Dev Card"/></a>
 		</td>
 	</tr>
 </table>
