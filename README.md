@@ -7,7 +7,7 @@
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
-<a href="#My-Latest-Blogs">[Blogs]</a>
+<a href="#Latest-Blogs">[Blogs]</a>
 </div>
 
 <br>
@@ -124,10 +124,11 @@ Skilled in programming languages such as Python, C++ and React with experience i
 | --- |
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
 
----
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
-<h3>My Latest Blogs:</h3>
+<h3>Latest Blogs:</h3>
 <!-- BLOG-CONTENT-LIST:START --> 
 
 <!--- 1 --->
@@ -149,9 +150,9 @@ Skilled in programming languages such as Python, C++ and React with experience i
 <br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to... </p> <br/> <br/>
 <!-- BLOG-CONTENT-LIST:END --> 
 
----
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 
 <p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/Dino_non-birthday_version.gif"/></p>
