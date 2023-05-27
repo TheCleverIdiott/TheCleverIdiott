@@ -55,7 +55,7 @@ Skilled in programming languages such as Python, C++ and React with experience i
 
  <div align="center">
  
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&no-bg=true)
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
  
  </div>
  
