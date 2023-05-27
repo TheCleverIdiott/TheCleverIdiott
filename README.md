@@ -7,6 +7,7 @@
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
+<a href="#My-Latest-Blogs">[Blogs]</a>
 </div>
 
 <br>
@@ -125,6 +126,8 @@ Skilled in programming languages such as Python, C++ and React with experience i
 
 ---
 
+
+<h3>My Latest Blogs:</h3>
 <!-- BLOG-CONTENT-LIST:START --> 
 
 <!--- 1 --->
