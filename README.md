@@ -21,7 +21,7 @@
 <table>
 	<tr>
 		<td>
-		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mast.gif" />
+		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/mncrftbg.gif" />
 		</td>
 		<td>
 		<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.svg" width=400/>
