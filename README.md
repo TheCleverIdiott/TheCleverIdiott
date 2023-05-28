@@ -95,7 +95,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <h3>My GitHub Metrics:</h3>
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="thecleveridiott" /></a> </p>
 
 
