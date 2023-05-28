@@ -137,19 +137,19 @@ Skilled in programming languages such as Python, C++ and React with experience i
 <p align="left">
 <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/>
 <a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
-<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">Read More</a> </p> <br/> <br/>
+<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
 
 <!--- 2 --->
 <p align="left">
 <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog3.jpg" width="180px" align="left"/>
 <a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f"><strong>ChatGPT plugins are out with the latest version roll out!</strong></a>
-<br/>OpenAI has recently announced a massive update for all ChatGPT Plus users. This new update will allow users access to web browsing within ChatGPT and 70 beta plugins. From text-to-audio to...<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f">Read More</a> </p> <br/> <br/>
+<br/>OpenAI has recently announced a massive update for all ChatGPT Plus users. This new update will allow users access to web browsing within ChatGPT and 70 beta plugins. From text-to-audio to...<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f">(Read More)</a> </p> <br/> <br/>
 
 <!--- 3 --->
 <p align="left">
 <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog2.png" width="180px" align="left"/>
 <a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>Make your GitHub profile stand out!</strong></a>
-<br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">Read More</a> </p> <br/> <br/>
+<br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
 <!-- BLOG-CONTENT-LIST:END --> 
 
 
