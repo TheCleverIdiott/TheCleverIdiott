@@ -43,25 +43,6 @@ Currently a Computer Science Sophomore with a passion for technology and a drive
 Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
 Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.
 
-* [x] An AI/ML enthusiast
-* [x] A Web Developer
-
-
-<!---
-<table>
-	<tr>
-		<td>
-Currently a Computer Science Sophomore with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
-Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos. Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.	
-		</td>
-		<td>
-<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=1bl" width="1800" alt="Aritra Ghosh's Dev Card"/></a>
-		</td>
-	</tr>
-</table>
-
---->
-
 
  <div align="center">
  
@@ -168,12 +149,5 @@ Skilled in programming languages such as Python, C++ and React with experience i
 	
 </div>
  
-<!---
-<code><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </code>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>   
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a>   
---->
- 
-
  
 <!--- made by Aritra Ghosh --->
