@@ -86,26 +86,20 @@ Skilled in programming languages such as Python, C++ and React with experience i
 <table>
 <tr>
 	<td><strong>Web Development</strong></td>
-	<td><strong>Database</strong></td>
 	<td><strong>Design & Editing</strong></td>
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,sqlite,bootstrap,flask,netlify,heroku,react,threejs" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark" height=38></td>
 </tr>
-</table>
-<table>
-<tr>
-	<td><strong>AI/ML</strong></td>
+	<tr>
+	<td><strong>DBMS and AI/ML</strong></td>
 	<td><strong>Dev Ops</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
-		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,docker,firebase,gcp,github,gitlab,heroku,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
+	<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height=38><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+	<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,docker,firebase,gcp,github,gitlab,heroku,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
 </tr>
-</table>
-<table>
 <tr>
 	<td><strong>Programming Languages</strong></td>
 	<td><strong>Others</strong></td>
@@ -117,7 +111,6 @@ Skilled in programming languages such as Python, C++ and React with experience i
 </table>
 
 
- 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <h3>My GitHub Metrics:</h3>
