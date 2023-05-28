@@ -133,6 +133,8 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
 <!-- BLOG-CONTENT-LIST:END --> 
 
+<a href="https://medium.com/@the-clever-idiot/">Click Here</a> to read more of my blogs. ☺️
+
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
