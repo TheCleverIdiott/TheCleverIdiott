@@ -1,2 +1,2 @@
 
-Some more Metrics abour me:
+Some more Metrics about me:
