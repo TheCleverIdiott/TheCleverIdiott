@@ -16,6 +16,8 @@
 <div align="left">
  
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
+	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 </div>
 
@@ -151,7 +153,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
  [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
  
 	
-<p align="center"><img src= "https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg"/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	
 </div>
  
