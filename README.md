@@ -38,7 +38,7 @@
 
 <h3>About Me</h3>
 
-Currently a Computer Science Sophomore with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
+Currently a Computer Science undergrad in Junior year with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
 Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
 Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.
 
@@ -95,8 +95,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
 <h3>My GitHub Metrics:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="thecleveridiott" /></a> </p>
-
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
 
