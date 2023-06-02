@@ -72,7 +72,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,sqlite,bootstrap,flask,netlify,heroku,react,threejs" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark" height=38></td>
 </tr>
-	<tr>
+<tr>
 	<td><strong>DBMS and AI/ML</strong></td>
 	<td><strong>Dev Ops</strong></td>
 </tr>
