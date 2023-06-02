@@ -115,7 +115,6 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
 
 <h3>Latest Blogs:</h3>
-<!-- BLOG-CONTENT-LIST:START --> 
 
 <!--- 1 --->
 <p align="left">
@@ -134,9 +133,14 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog2.png" width="180px" align="left"/>
 <a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>Make your GitHub profile stand out!</strong></a>
 <br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
-<!-- BLOG-CONTENT-LIST:END --> 
 
 <a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
+
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
