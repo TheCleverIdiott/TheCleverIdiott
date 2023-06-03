@@ -137,12 +137,6 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
 
 
-Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
