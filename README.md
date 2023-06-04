@@ -41,7 +41,6 @@ Currently a Computer Science undergrad in Junior year with a passion for technol
 Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
 Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.
 
-
  <div align="center">
  
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
