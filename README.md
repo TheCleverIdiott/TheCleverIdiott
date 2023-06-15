@@ -130,7 +130,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 <!--- 3 --->
 <p align="left">
 <a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog2.png" width="180px" align="left"/></a>
-<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>Make your GitHub profile stand out!</strong></a>
+<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><strong>Make your GitHub profile stand out!</strong></a>
 <br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to...<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63">(Read More)</a> </p> <br/> <br/>
 
 <a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
