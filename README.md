@@ -123,7 +123,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
 <!--- 2 --->
 <p align="left">
-<img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog3.jpg" width="180px" align="left"/>
+<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog3.jpg" width="180px" align="left"/></a>
 <a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f"><strong>ChatGPT plugins are out with the latest version roll out!</strong></a>
 <br/>OpenAI has recently announced a massive update for all ChatGPT Plus users. This new update will allow users access to web browsing within ChatGPT and 70 beta plugins. From text-to-audio to...<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f">(Read More)</a> </p> <br/> <br/>
 
