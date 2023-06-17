@@ -68,7 +68,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 	<td><strong>Design & Editing</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,bootstrap,flask" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,bootstrap" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,figma,ai&theme=dark" height=38></td>
 </tr>
 <tr>
