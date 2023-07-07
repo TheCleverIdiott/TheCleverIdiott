@@ -77,7 +77,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 </tr>
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=mongodb&theme=dark" height=38> | <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
-	<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,firebase,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
+	<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
 </tr>
 <tr>
 	<td><strong>Programming Languages</strong></td>
