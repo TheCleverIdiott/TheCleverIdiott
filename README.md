@@ -10,7 +10,6 @@
 <a href="#Latest-Blogs">[Blogs]</a>
 </div>
 
-
 <div align="left">
  
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
@@ -98,7 +97,7 @@ Strong communication and collaboration skills, with a desire to continuously lea
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" alt="thecleveridiott" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) |  |
 | --- | --- | --- |
 
 
