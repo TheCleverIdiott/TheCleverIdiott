@@ -36,11 +36,7 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<h3>About Me</h3>
-
-Currently a Computer Science undergrad in Junior year with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
-Skilled in programming languages such as Python, C++ and React with experience in developing Web Development and ML projects. Proficienct in graphic design, with a strong focus on creating visually appealing designs.Adept at photo and video editing, utilizing industry-leading software to enhance the quality and impact of images and videos.
-Strong communication and collaboration skills, with a desire to continuously learn and grow in a dynamic and fast-paced environment.
+<h3>Just a guy with a computer :)</h3>
 
  <div align="center">
  
