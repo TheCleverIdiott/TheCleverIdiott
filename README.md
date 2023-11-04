@@ -38,6 +38,10 @@
 
 <h3>Just a guy with a computer :)</h3>
 
+### Find more about me on <a href="https://itsaritra.pages.dev">itsaritra.pages.dev</a>
+<br>
+
+
  <div align="center">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
