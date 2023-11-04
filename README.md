@@ -52,6 +52,7 @@
 <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
 <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=medium&theme=dark" height=38></a>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
@@ -64,7 +65,7 @@
 	<td><strong>Design & Editing</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,figma,ai&theme=dark" height=38></td>
 </tr>
 <tr>
@@ -72,7 +73,7 @@
 	<td><strong>Dev Ops</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=mongodb&theme=dark" height=38>  <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+	<td><img src = "https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height=38>  <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
 	<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
 </tr>
 <tr>
