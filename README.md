@@ -3,7 +3,7 @@
 <div align="right">Go to:</div>
 
 <div align="right">
-<a href="#About-Me">[About]</a>
+<a href="#Just-a-guy-with-a-computer">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
@@ -36,7 +36,7 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<h3>Just a guy with a computer :)</h3>
+<h3>Just a guy with a computer</h3>
 
 ### Find more about me on <a href="https://itsaritra.pages.dev">itsaritra.pages.dev</a>
 <br>
