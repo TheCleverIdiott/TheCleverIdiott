@@ -28,6 +28,8 @@ jobs:
           user: thecleveridiott
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          repositories_forks: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_16personalities: yes
@@ -67,4 +69,4 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: ughhritra
+          plugin_tweets_user: @ughhritra
