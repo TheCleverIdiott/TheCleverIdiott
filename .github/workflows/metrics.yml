@@ -1,5 +1,3 @@
-# - name: Metrics embed
-#   uses: lowlighter/metrics@v3.34
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
@@ -27,15 +25,24 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: TheCleverIdiott
+          user: thecleveridiott
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
+          config_twemoji: yes
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality
+          plugin_16personalities_url: https://www.16personalities.com/profiles/c9e9226580fb6
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           plugin_fortune: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -44,23 +51,20 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://itsaritra.pages.dev/
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
+          plugin_people: yes
+          plugin_people_limit: 100
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
+          plugin_tweets: yes
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: ughhritra
