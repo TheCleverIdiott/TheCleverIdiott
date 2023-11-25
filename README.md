@@ -38,7 +38,7 @@
 
 <h3>Just a guy with a computer</h3>
 
-### Find more about me on <a href="https://itsaritra.pages.dev">itsaritra.pages.dev</a>
+### Find more about me on <a href="https://itsaritra.pages.dev">my website</a> or contact me via <a href="mailto:hello@aritra-ghosh.me">my email</a>
 <br>
 
 
