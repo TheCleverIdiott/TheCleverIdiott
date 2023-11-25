@@ -36,9 +36,18 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+<div align="left">
+	
 ### Just a guy with a computer trying to make sense out of life 🤷‍♂️
 
+</div>
+
+<div align="right">
+
 ### Find more about me on <a href="https://itsaritra.pages.dev">my website</a> or contact me via <a href="mailto:hello@aritra-ghosh.me">my email</a>
+
+</div>
+
 <br>
 
 
