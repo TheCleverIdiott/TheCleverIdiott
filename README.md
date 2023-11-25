@@ -59,7 +59,7 @@
  
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
-<h3>Connect with me on:</h3>
+<h3>Would love to connect 🤝</h3>
 <a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
 <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
 <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
