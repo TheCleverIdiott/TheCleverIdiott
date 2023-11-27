@@ -17,6 +17,7 @@
  
 </div>
 
+
 <table>
 	<tr>
 		<td>
@@ -163,6 +164,12 @@
 </div>
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+	
+Made with 💖 by: [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https://github.com/TheCleverIdiott "Aritra Ghosh on GitHub")
+
+</div>
  
  
 <!--- made by Aritra Ghosh --->
