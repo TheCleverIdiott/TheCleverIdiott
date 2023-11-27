@@ -120,7 +120,11 @@
 | --- |
 [![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
 
+<div align="center">
+
 <a href="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/metrics.md"><img src="https://img.shields.io/badge/More Metrics-Click Here-blue?style=for-the-badge"></a>
+
+</div>
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
