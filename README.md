@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=900&size=17&pause=1000&color=E14F14&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=AI%2FML%2C+Web+Dev+%2COpensource%2C+Blogs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=900&size=17&pause=1000&color=1354d6&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=AI%2FML%2C+Web+Dev+%2COpensource%2C+Blogs)](https://git.io/typing-svg)
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Web+Dev%2C+AI/ML%2C+Open+Source%2C+Blogs)](https://git.io/typing-svg)-->
  
