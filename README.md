@@ -130,15 +130,15 @@
 
 <!--- 1 --->
 <p align="left">
-<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/></a>
-<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
-<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
+<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
 
 <!--- 2 --->
 <p align="left">
-<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog3.jpg" width="180px" align="left"/></a>
-<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f"><strong>ChatGPT plugins are out with the latest version roll out!</strong></a>
-<br/>OpenAI has recently announced a massive update for all ChatGPT Plus users. This new update will allow users access to web browsing within ChatGPT and 70 beta plugins. From text-to-audio to...<a href="https://medium.com/@the-clever-idiot/chatgpt-plugins-are-out-2935aff8424f">(Read More)</a> </p> <br/> <br/>
+<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/></a>
+<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
+<br/>Defining functions is so old school! Use the Lambda function instead. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
 
 <!--- 3 --->
 <p align="left">
