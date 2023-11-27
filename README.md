@@ -132,7 +132,7 @@
 <p align="left">
 <a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
 <a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
-<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
+<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects  Bun.js and Node.js are two competitors that have lately aroused interest in the community While Bun.js ap...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
 
 <!--- 2 --->
 <p align="left">
