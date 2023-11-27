@@ -171,7 +171,7 @@
 
 <div align="center">
 	
-Made with 💖 by: [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https://github.com/TheCleverIdiott "Aritra Ghosh on GitHub")
+Made with 💖 by:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https://github.com/TheCleverIdiott "Aritra Ghosh on GitHub")
 
 </div>
  
