@@ -175,5 +175,11 @@ Made with 💖 by:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size
 
 </div>
  
+ <!-- 
+[![Contributors][contributors-image]][contributors-link]
+
+[contributors-image]: https://contrib.rocks/image?repo=TheCleverIdiott/Win_Analyser
+[contributors-link]: https://github.com/TheCleverIdiott/Win_Analyser/graphs/contributors
  
+ -->
 <!--- made by Aritra Ghosh --->
