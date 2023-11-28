@@ -47,7 +47,7 @@
 
 <div align="right">
 
-### Find more about me on <a href="https://itsaritra.pages.dev">my website</a> or contact me via <a href="mailto:hello@aritra-ghosh.me">hello@aritra-ghosh.me</a>
+### Check out <a href="https://itsaritra.pages.dev">my website</a> or contact me via <a href="mailto:hello@aritra-ghosh.me">my email.</a>
 
 </div>
 
