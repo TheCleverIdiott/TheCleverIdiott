@@ -136,15 +136,15 @@
 
 <!--- 1 --->
 <p align="left">
-<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
-<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
-<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects  Bun.js and Node.js are two competitors that have lately aroused interest in the community. While Bun...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
+<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog5.jpeg" width="180px" align="left"/></a>
+<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><strong>How I won SIH 2023</strong></a>
+<br/>The journey began when I returned from Mumbai after completing my internship, marking my first solo experience in a new city. Little did I know that life had more challenges in store for me. In August, the SIH registrations were announced, and I knew I couldn’t miss this opportunity...<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2">(Read More)</a> </p> <br/> <br/>
 
 <!--- 2 --->
 <p align="left">
-<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog1.png" width="180px" align="left"/></a>
-<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d"><strong>4 Cool Python Tweaks to Take Your Code to the Next Level</strong></a>
-<br/>Upgrade your coding by incorporating these ideas into your code. The lambda function is an amazing alternative to regular functions. Its possible to define lambda functions in a single line of code and even within parameters, thus taking less time and space in our code Using the map function, we can apply a...<a href="https://medium.com/@the-clever-idiot/4-cool-python-tweaks-72884add459d">(Read More)</a> </p> <br/> <br/>
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
+<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects  Bun.js and Node.js are two competitors that have lately aroused interest in the community. While Bun...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
 
 <!--- 3 --->
 <p align="left">
