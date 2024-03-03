@@ -21,7 +21,7 @@
 
 <h3 align='left'>About Me: </h2>
 
-👋 Hey there! I'm Aritra, a Pre-Final Year Computer Science Undergrad from IEM, Kolkata, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
+👋 Hey there! I'm Aritra, a Pre-Final Year Computer Science Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
 - Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>** or download my **<a href="https://drive.google.com/file/d/17c33EDlsHTkxl54dkSVRkZ-tAlt0Cy-k/view?usp=sharing">resume</a>**.
 - Reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**.
 
