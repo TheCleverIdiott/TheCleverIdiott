@@ -22,9 +22,6 @@
 <h3 align='left'>About Me: </h2>
 
 - 👋 Hey there! I'm Aritra, a Pre-Final Year Computer Science Undergrad from IEM, Kolkata, India.
-- SIH '23 Winner | Ex-Intern at @CareEdge Group | 5x Hackathon Winner | Web-Dev & ML | TSoC'23 | CS Undergrad (IEM '25)
-- As a Research Associate and a Machine Learning Intern, I've developed scalable APIs, automated ML model serving, and built secure models for risk assessment and customer churn analysis.
-- Additionally, my stint as a Web Developer involved successfully delivering projects on time and implementing SEO/SEM strategies resulting in increased traffic.
 - With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development. Let's connect and explore synergies! 🌟</p>
 - Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>** or download my **<a href="">resume</a>**.
 - Reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**.
