@@ -25,46 +25,7 @@
 <table>
 	<tr>
 		<td>
-		<p>Hello! I'm Aritra from Kolkata, West Bengal, India.
-
-🔹Education 🔹
-➝ Bachelor of Technology in Computer Science and Engineering | Institute of Engineering and Management, Kolkata | Graduating July 2025 | CGPA: 9.40 
-
-
-🔹Professional Experience 🔹
-➝ Research Associate | IIC 
-
-➝ Machine Learning Intern | CareEdge Risk Solutions Pvt. Limited 
-- Developed scalable and robust APIs in Python 
-- Automated ML model serving and built secure models for risk assessment, customer churn analysis, and categorization 
-
-➝ Web Developer | Karmactive India 
-- Successfully delivered six projects on time and within budget 
-- Implemented SEO/SEM strategies resulting in increased traffic and improved page rankings 
-
-
-🔹 Achievements 🔹
-➝ Team Lead, Winning Team | Smart India Hackathon 2023 
-➝ Winner | DU-Hacks, MozoHacks, SparkHack (Jadavpur University Convocation 7.0) 
-➝ 2nd Runners-up | MLH's Month Long Hackathon, December 
-
-
-🔹Research Publications🔹
-➝ "Application of AI in the Prevention and Awareness of Domestic Violence" | Published in IJSRED 
-➝ "An Analytical Survey on Text Summarization Methods" | Accepted in IEMTRONICS (Scopus Indexed) 
-
-
-- Proficient in Python, FastAPI, Statsmodel, MLFlow, Redis, Git, Flask, NumPy, Pandas, Feebas, Scikit-learn, TensorFlow, Keras, ggplot, Jupyter, JS, MERN.
-- Skilled in C++, C, Java, Python, Rust 
-
-- Actively Engaged tackling challenging queries on platforms like LeetCode and Codeforces 
-- Contributing to the open-source community through programs like GSSOC, SSOC, TSOC .
-
-- Currently Working On: Advocate.ai and Researching Computational Linguistics, focused on refining template-based summarization models.
-
-Seeking dynamic roles in AI-ML/Data Analysis/Web Development.
-
-Let's connect! Open to opportunities and collaborations.</p>
+		<p>👋 Hey there! I'm Aritra, a Computer Science enthusiast from Kolkata, India. Currently pursuing my Bachelor's in Computer Science and Engineering, I bring with me a wealth of experience. As a Research Associate and a Machine Learning Intern, I've developed scalable APIs, automated ML model serving, and built secure models for risk assessment and customer churn analysis. Additionally, my stint as a Web Developer involved successfully delivering projects on time and implementing SEO/SEM strategies resulting in increased traffic. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development. Let's connect and explore synergies! 🌟</p>
 		</td>
 		<td>
 		<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e" width="400" alt="Aritra Ghosh's Dev Card"/></a>
