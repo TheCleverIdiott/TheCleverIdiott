@@ -16,7 +16,7 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
 </div>
-<a href="https://app.daily.dev/aritraghosh"><img align="right" alt="ritra Ghosh's Dev Card" width="250" src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e"></img></a>
+<a href="https://app.daily.dev/aritraghosh"><img align="right" alt="ritra Ghosh's Dev Card" width="230" src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e"></img></a>
 <hr>
 
 <h3 align='left'>About Me: </h2>
