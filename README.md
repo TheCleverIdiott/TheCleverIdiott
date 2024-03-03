@@ -58,15 +58,15 @@
 
 **<h3>Milestones: </h3>**
 
-- Research Associate IIC
-- Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India
-- Web Developer Intern - Karmactive India, cruxbuzz.com - Remote
-- Timechain Labs Summer Intern
+- <a herf="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
+- <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
+- <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Web Developer Intern - Karmactive India, cruxbuzz.com - Remote</a>
+- <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Timechain Labs Summer Intern</a>
 - Appwrite Octernship
-- Team Lead, Winning Team SIH 2023 - Open Innovation Track (MoE India, AICTE)
+- <a href="https://www.linkedin.com/posts/aritraghosh1905_smartindiahackathon-sih2023-teamgeek6-activity-7144994433355198464-ajIw?utm_source=share&utm_medium=member_desktop">Team Lead, Winning Team SIH 2023 - Open Innovation Track (MoE India, AICTE)</a>
 - CodeRush 2023 (Winner), HackBrewer 2023 (Winner), DUHacks (Top 15), MozoHacks(Top 10)
-- SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)
-- Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]
+- <a href="https://www.linkedin.com/posts/aritraghosh1905_hello-everyone-im-glad-to-announce-that-activity-7061234284430327808--WFu?utm_source=share&utm_medium=member_desktop">SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)</a>
+- <a href="https://drive.google.com/file/d/1cxfxsig-bhoEsBpHewUzRSFPcEFx4nQ-/view">Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]</a>
 - Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed).
   
 <h4>Certifications: </h4>
