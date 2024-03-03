@@ -1,9 +1,9 @@
-<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>
+<!--<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>-->
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="aritraghosh1905" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aritraghosh1905?trk=profile-badge">Aritra Ghosh</a></div> -->
-              
+<!--<div align="right">Go to:</div>-->
 
-<div align="right">Go to:</div>
+
 
 <div align="right">
 <a href="#Just-a-guy-with-a-computer">[About]</a>
@@ -13,74 +13,55 @@
 <a href="#Latest-Blogs">[Blogs]</a>
 </div>
 
-
-
 <div align="left">
- 
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
- 
 </div>
+<a href="https://app.daily.dev/aritraghosh"><img align="right" alt="ritra Ghosh's Dev Card" width="350" src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e"></img></a>
+<hr>
+
+<h3 align='left'>About Me: </h2>
+
+- 👋 Hey there! I'm Aritra, a Pre-Final Year Computer Science Undergrad from IEM, Kolkata, India.
+- SIH '23 Winner | Ex-Intern at @CareEdge Group | 5x Hackathon Winner | Web-Dev & ML | TSoC'23 | CS Undergrad (IEM '25)
+- As a Research Associate and a Machine Learning Intern, I've developed scalable APIs, automated ML model serving, and built secure models for risk assessment and customer churn analysis.
+- Additionally, my stint as a Web Developer involved successfully delivering projects on time and implementing SEO/SEM strategies resulting in increased traffic.
+- With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development. Let's connect and explore synergies! 🌟</p>
+- Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>** or download my **<a href="">resume</a>**.
+- Reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**.
+
+<h3 align='left'>Socials: </h2>
+‎  ‎ ‎ <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 
 
-<table>
-	<tr>
-		<td>
-		<p>👋 Hey there! I'm Aritra, a Computer Science enthusiast from Kolkata, India. Currently pursuing my Bachelor's in Computer Science and Engineering, I bring with me a wealth of experience. As a Research Associate and a Machine Learning Intern, I've developed scalable APIs, automated ML model serving, and built secure models for risk assessment and customer churn analysis. Additionally, my stint as a Web Developer involved successfully delivering projects on time and implementing SEO/SEM strategies resulting in increased traffic. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development. Let's connect and explore synergies! 🌟</p>
-		</td>
-		<td>
-		<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e" width="400" alt="Aritra Ghosh's Dev Card"/></a>
-		</td>
-	</tr>
-</table>
 
-
-
-
-<div align="center">
-
+<!--<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e" width="400" alt="Aritra Ghosh's Dev Card"/></a>-->
+<!--TYPING
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=900&size=21&pause=1000&color=6614e1&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=AI%2FML%2C+Web+Dev+%2COpensource%2C+Blogs)](https://git.io/typing-svg)
-
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Web+Dev%2C+AI/ML%2C+Open+Source%2C+Blogs)](https://git.io/typing-svg)-->
- 
- </div>
+<!--LINE-->
+<!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
+<!--QUOTES-->
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)-->
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-<div align="left">
-	
-### Just a guy with a computer trying to make sense out of life 🤷‍♂️
-
-</div>
-
-<div align="right">
-
-### Check out <a href="https://itsaritra.pages.dev">my website</a> or contact me via <a href="mailto:hello@aritra-ghosh.me">my email.</a>
-
-</div>
-
-<br>
-
-
- <div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
- 
- </div>
- 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-<div align = 'center'>
+<!--<div align = 'center'>
 <h3>Would love to connect 🤝</h3>
 <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
 <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
 <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
 <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
-</div>
+</div>-->
 <!-- <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=medium&theme=dark" height=38></a> -->
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
 
+<hr>
+
+<h3>Achivements: </h3>
+- 
 
 <h3>Tech Stack:</h3>
 
@@ -115,28 +96,6 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<h3>My GitHub Metrics:</h3>
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="thecleveridiott" /> | ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott\&rank_icon=percentile&hide=stars,commits,prs,issues,contribs&locale=en&theme=transparent) |
-| --- | --- | --- | --- |
-
-
-| [![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-| --- |
-[![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
-
-<div align="center">
-
-<a href="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/metrics.md"><img src="https://img.shields.io/badge/More Metrics-Click Here-blue?style=for-the-badge"></a>
-
-</div>
-
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
 <h3>Latest Blogs:</h3>
@@ -161,34 +120,47 @@
 
 <a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
 
+<hr>
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<h3>My GitHub Metrics:</h3>
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="thecleveridiott" /> | ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott\&rank_icon=percentile&hide=stars,commits,prs,issues,contribs&locale=en&theme=transparent) |
+| --- | --- | --- | --- |
+
+
+| [![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+| --- |
+[![@thecleveridiot's Holopin board](https://holopin.me/thecleveridiot)](https://holopin.io/@thecleveridiot) |
+
+<div align="center">
+
+<a href="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/metrics.md"><img src="https://img.shields.io/badge/More Metrics-Click Here-blue?style=for-the-badge"></a>
+
+</div>
+
+<hr>
 
 <p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/Dino_non-birthday_version.gif"/></p>
  
- <div align="center">
-	
- [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
- 
-<img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">
-	
-</div>
-	
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 	
-Made with 💖 by:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https://github.com/TheCleverIdiott "Aritra Ghosh on GitHub")
+Aurhor:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https://github.com/TheCleverIdiott "Aritra Ghosh on GitHub")
+
+[![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
 
 </div>
- 
+
+<!--BOTTOM WAVE-->
+<!--<img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">-->	
+<!--FANCY LINE-->
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
  <!-- 
 [![Contributors][contributors-image]][contributors-link]
-
 [contributors-image]: https://contrib.rocks/image?repo=TheCleverIdiott/Win_Analyser
 [contributors-link]: https://github.com/TheCleverIdiott/Win_Analyser/graphs/contributors
- 
  -->
-<!--- made by Aritra Ghosh --->
