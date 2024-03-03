@@ -66,6 +66,7 @@
 - Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India
 - Web Developer Intern - Karmactive India, cruxbuzz.com - Remote
 - Timechain Labs Summer Intern
+- Appwrite Octernship
 - Team Lead, Winning Team SIH 2023 - Open Innovation Track (MoE India, AICTE)
 - CodeRush 2023 (Winner), HackBrewer 2023 (Winner), DUHacks (Top 15), MozoHacks(Top 10)
 - SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)
