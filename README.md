@@ -73,7 +73,7 @@
 
 - Google Data Analytics Professional Certificate
 - AWS Fundamentals Specialization
-- IBM Machine Learning Specialization 
+- <a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a>
 - Prompt Engineering (Vanderbilt University)
 - Microsoft Azure Specialization
 - Blockchain Specialization (University at Buffalo)
