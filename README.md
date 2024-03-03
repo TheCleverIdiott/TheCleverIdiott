@@ -60,11 +60,30 @@
 
 <hr>
 
-<h3>Achivements: </h3>
-- 
+**<h3>Milestones: </h3>**
+
+- Research Associate IIC
+- Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India
+- Web Developer Intern - Karmactive India, cruxbuzz.com - Remote
+- Timechain Labs Summer Intern
+- Team Lead, Winning Team SIH 2023 - Open Innovation Track (MoE India, AICTE)
+- CodeRush 2023 (Winner), HackBrewer 2023 (Winner), DUHacks (Top 15), MozoHacks(Top 10)
+- SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)
+- Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]
+- Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed).
+  
+<h4>Certifications: </h4>
+
+- Google Data Analytics Professional Certificate
+- AWS Fundamentals Specialization
+- IBM Machine Learning Specialization 
+- Prompt Engineering (Vanderbilt University)
+- Microsoft Azure Specialization
+- Blockchain Specialization (University at Buffalo)
+
+<hr>
 
 <h3>Tech Stack:</h3>
-
 <table>
 	<tr>
 		<td><strong>Web Development</strong></td>
@@ -94,7 +113,7 @@
 
 
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<hr>
 
 
 
