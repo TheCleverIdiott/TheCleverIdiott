@@ -71,12 +71,12 @@
   
 <h4>Certifications: </h4>
 
-- Google Data Analytics Professional Certificate
-- AWS Fundamentals Specialization
+- <a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a>
+- <a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a>
 - <a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a>
-- Prompt Engineering (Vanderbilt University)
-- Microsoft Azure Specialization
-- Blockchain Specialization (University at Buffalo)
+- <a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)
+- <a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a>
+- <a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)
 
 <hr>
 
