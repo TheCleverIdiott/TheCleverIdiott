@@ -30,6 +30,7 @@
 ‎  ‎ ‎ <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "mailto:hello@aritra-ghosh.me"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
 
 
 
