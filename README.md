@@ -141,7 +141,9 @@
 
 <h3>My GitHub Metrics:</h3>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
 
