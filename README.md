@@ -69,6 +69,7 @@
 - <a href="https://drive.google.com/file/d/1cxfxsig-bhoEsBpHewUzRSFPcEFx4nQ-/view">Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]</a>
 - Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed).
 - Appwrite Octernship
+- Hacktoberfest 2022, 2023
   
 <h4>Certifications: </h4>
 
