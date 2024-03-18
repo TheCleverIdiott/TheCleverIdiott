@@ -1,5 +1,5 @@
 name: daily-devcard
-on: 
+on:
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: devcard
-      uses: dailydotdev/action-devcard@3.0.0
-      with:
-        user_id: ${{ secrets.USER_ID }}
-        commit_message: "chore: update ${filename}"
+        uses: dailydotdev/action-devcard@3.0.0
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: update ${filename}"
