@@ -19,7 +19,7 @@
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a>
 <hr>
 
-<h3 align='left'>About Me: </h2>
+<!--<h3 align='left'>About Me: </h2>-->
 
 👋 Hey there! I'm Aritra, a Pre-Final Year Computer Science Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
 - Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>** or download my **<a href="https://drive.google.com/file/d/1gx6I5k9BSYbt90VmOr1Ipxsymk-BWeIG/view">resume</a>**.
@@ -27,7 +27,7 @@
   
 I'm always on the lookout for opportunities to collaborate and learn.
 
-<h3 align='left'>Socials: </h2>
+<!--<h3 align='left'>Socials: </h2>-->
 ‎  ‎ ‎ <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=light" height=38></a>
