@@ -70,7 +70,7 @@ I'm always on the lookout for opportunities to collaborate and learn.
 - <a href="https://www.linkedin.com/posts/aritraghosh1905_hello-everyone-im-glad-to-announce-that-activity-7061234284430327808--WFu?utm_source=share&utm_medium=member_desktop">SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)</a>
 - <a href="https://drive.google.com/file/d/1cxfxsig-bhoEsBpHewUzRSFPcEFx4nQ-/view">Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]</a>
 - <a href="https://www.holopin.io/@thecleveridiot#">Hacktoberfest 2022, 2023</a>
-- Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed).
+- <a href="https://iemtronics.org/wp-content/uploads/2024/03/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
 - Appwrite Octernship
 
   
