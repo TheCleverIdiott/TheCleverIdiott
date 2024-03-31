@@ -33,7 +33,6 @@ I'm always on the lookout for opportunities to collaborate and learn.
 ‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=light" height=38></a>
 ‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "mailto:hello@aritra-ghosh.me"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
-    <a href="https://www.leetcode.com/Aritra_G/" target="_blank"><img src = "https://skillicons.dev/icons?i=lc&theme=dark" height=38></a>
 
 
 
