@@ -61,7 +61,7 @@ I'm always on the lookout for opportunities to collaborate and learn.
 
 <hr>
 
-**<h3>Milestones: </h3>**
+**<h3>Higlights: </h3>**
 
 - <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
 - <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
