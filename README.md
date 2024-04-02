@@ -146,7 +146,7 @@ Find me on:
 
 <hr>
 
-<h3>My GitHub Metrics:</h3>
+<h3>GitHub Metrics:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)
 
