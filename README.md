@@ -1,7 +1,7 @@
 <!--<div align="left"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>-->
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="aritraghosh1905" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aritraghosh1905?trk=profile-badge">Aritra Ghosh</a></div> -->
-<!--<div align="right">Go to:</div>-->
+<!--<div align="right">Go to:</div>--> 
 
 
 
