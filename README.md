@@ -74,7 +74,7 @@ Find me on:
 - <a href="https://drive.google.com/file/d/1cxfxsig-bhoEsBpHewUzRSFPcEFx4nQ-/view">Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]</a>
 - <a href="https://www.holopin.io/@thecleveridiot#">Hacktoberfest 2022, 2023</a>
 - <a href="https://iemtronics.org/wp-content/uploads/2024/03/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
-- Appwrite Octernship
+- <a href="https://github.com/appwrite">Appwrite Octernship</a>
 
   
 <h4>Certifications: </h4>
