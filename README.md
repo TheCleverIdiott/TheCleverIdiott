@@ -9,7 +9,7 @@
 <a href="#Hey-there">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
-<a href="#My-GitHub-Metrics">[Metrics]</a>
+<a href="#GitHub-Metrics">[Metrics]</a>
 <a href="#Latest-Blogs">[Blogs]</a>
 </div>
 
