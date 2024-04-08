@@ -30,7 +30,7 @@
   
 I'm always on the lookout for opportunities to collaborate and learn. 
 
-Find me on:
+Ask me about stories that I'm afraid to share with the internet:
 
 <!--<h3 align='left'>Socials: </h2>-->
 ‎  ‎ ‎ <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
