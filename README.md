@@ -6,7 +6,7 @@
 
 
 <div align="right">
-<a href="#Just-a-guy-with-a-computer">[About]</a>
+<a href="#Hey-there">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
 <a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
@@ -20,10 +20,10 @@
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a>
 <hr>
 
-<!--<h3 align='left'>About Me: </h2>-->
+<h4 align='left'>Hey there</h4>
 
 
-👋 Hey there! I'm Aritra, a pre-final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
+👋 I'm Aritra, a pre-final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
 - Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>** or download my **<a href="https://drive.google.com/file/d/1gx6I5k9BSYbt90VmOr1Ipxsymk-BWeIG/view">resume</a>**.
 - Reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**.
 - Currently working on training a LLM using LSTM networks to provide accurate responses to specific queries from a custom KB and integrating it with LlamaIndex + RAG.
@@ -190,6 +190,10 @@ Aurhor:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https
 
 [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
 
+</div>
+
+<div align="right">
+	<a href="#Just-a-guy-with-a-computer">[Back to Top]</a>
 </div>
 
 <!--BOTTOM WAVE-->
