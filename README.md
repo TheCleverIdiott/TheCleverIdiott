@@ -67,7 +67,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 <hr>
 
-**<h3> 🏆 Higlights: </h3>**
+**<h3>Higlights: </h3>**
 
 - <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
 - <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
@@ -82,7 +82,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - <a href="https://github.com/appwrite">Appwrite Octernship</a>
 
   
-<h4> Certifications: </h4>
+<h4>Certifications: </h4>
 
 - <a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a>
 - <a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a>
@@ -127,7 +127,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 
 
-<h3> 📖 Latest Blogs:</h3>
+<h3>Latest Blogs:</h3>
 
 <!--- 1 --->
 <p align="left">
@@ -151,7 +151,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 <hr>
 
-<h3> 📊 GitHub Metrics:</h3>
+<h3>GitHub Metrics:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)
 
