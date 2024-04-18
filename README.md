@@ -20,6 +20,7 @@
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a>
 <hr>
 
+
 <h4 align='left'>Hey there</h4>
 
 
