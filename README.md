@@ -13,7 +13,6 @@
 <a href="#Latest-Blogs">[Blogs]</a>
 </div>
 
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
 </div>
