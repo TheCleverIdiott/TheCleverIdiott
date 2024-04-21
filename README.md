@@ -4,7 +4,6 @@
 <!--<div align="right">Go to:</div>--> 
 
 
-
 <div align="right">
 <a href="#Hey-there">[About]</a>
 <a href="#Connect-with-me-on">[Contact]</a>
