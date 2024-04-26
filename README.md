@@ -5,11 +5,13 @@
 
 
 <div align="right">
-<a href="#Hey-there">[About]</a>
-<a href="#Connect-with-me-on">[Contact]</a>
-<a href="#Tech-Stack">[Tech-Stack]</a>
-<a href="#GitHub-Metrics">[Metrics]</a>
-<a href="#Latest-Blogs">[Blogs]</a>
+	
+‎  ‎ ‎ **<a href="#Hey-there">About</a>**
+‎  ‎ ‎ **<a href="#Connect-with-me-on">Contact</a>**
+‎  ‎ ‎ **<a href="#Tech-Stack">Tech-Stack</a>**
+‎  ‎ ‎ **<a href="#GitHub-Metrics">Metrics</a>**
+‎  ‎ ‎ **<a href="#Latest-Blogs">Blogs</a>**
+
 </div>
 
 <div align="left">
