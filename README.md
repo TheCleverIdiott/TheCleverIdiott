@@ -197,11 +197,11 @@ Aurhor:  [![Aritra Ghosh](https://github.com/TheCleverIdiott.png?size=30)](https
 
 </div>
 
-<div align="right">
+<!--<div align="right">
 	
 **<a href="#👋-Hey-there">Back to Top</a>**
  
-</div>
+</div>-->
 
 <!--BOTTOM WAVE-->
 <!--<img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">-->	
