@@ -164,8 +164,11 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCleverIdiott&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs) -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="thecleveridiott" /> | ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott\&rank_icon=percentile&hide=stars,commits,prs,issues,contribs&locale=en&theme=transparent) |
-| --- | --- | --- | --- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecleveridiott&show_icons=true&locale=en&theme=transparent&rank_icon=percentile" alt="thecleveridiott" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCleverIdiott&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecleveridiott&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="thecleveridiott" /> |
+| --- | --- | --- | 
+
+
+<!-- ![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecleveridiott\&rank_icon=percentile&hide=stars,commits,prs,issues,contribs&locale=en&theme=transparent) |-->
 
 
 <!--| [![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
