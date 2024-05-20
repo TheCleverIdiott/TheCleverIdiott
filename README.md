@@ -29,7 +29,7 @@ I'm Aritra, a pre-final Year CS Undergrad from <a href="https://iem.edu.in/">IEM
 - Currently working on training a LLM using LSTM networks to provide accurate responses to specific queries from a custom KB and integrating it with LlamaIndex + RAG.
 - Actively seeking job opportunities in the field of AI/ML.
 - Find out more about me from my **<a href="https://aritraghosh.xyz/">website</a>**
-- or download my **<a href="https://drive.google.com/file/d/1_joC9EN3zKNxTGxr35nYD_dcH5OcTlV6/view?usp=sharing">resume</a>**.
+- or download my **<a href="https://drive.google.com/file/d/1xM2ALpR9myIoP2nVi6KkQWzk6pcmtiwh/view?usp=sharing">resume</a>**.
 - or reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**.
 
 
