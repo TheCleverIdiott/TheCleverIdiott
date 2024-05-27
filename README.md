@@ -107,7 +107,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=ps,figma,ai&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
 	</tr>
 	<tr>
 		<td><strong>DBMS and AI/ML</strong></td>
