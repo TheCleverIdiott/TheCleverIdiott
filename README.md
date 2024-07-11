@@ -25,7 +25,7 @@
 <h4 align='left'>👋 Hey there</h4>
 
 
-I'm Aritra, a pre-final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
+I'm Aritra, a final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
 Currently working on training a LLM using LSTM networks to provide accurate responses to specific queries from a custom KB and integrating it with LlamaIndex + RAG.</p>
 Actively seeking job opportunities in the field of AI/ML.
 - Find out more about me from my **<a href="https://aritraghosh.co/">website</a>**
