@@ -40,12 +40,14 @@ I'm always on the lookout for opportunities to collaborate and learn.
 
 
 <!--<h3 align='left'>Socials: </h2>-->
-‎  ‎ ‎ <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
-‎  ‎ ‎ <a href = "https://leetcode.com/Aritra_G/"><img src = "https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height=38></a>
-‎  ‎ ‎ <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
-‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=light" height=38></a>
-‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "mailto:hello@aritra-ghosh.me"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
+‎  ‎ ‎ <a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://www.instagram.com/ughhritra/"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://www.facebook.com/thecleveridiott/"><img src = "https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=38></a>
+‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
+‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=light" height=38></a>
+‎  ‎ ‎ <a href = "https://leetcode.com/Aritra_G/"><img src = "https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height=38></a>
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
