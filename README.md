@@ -267,7 +267,7 @@ Ask me in person for other stories that I'm afraid to share with the internet. â
 
 <hr>
 
-<p align="center">Watch a dinosaur jump over cactuses for no apparent reason :)</p>
+<p align="center">Watch a dinosaur jump over cactuses for no apparent reason? :)</p>
 <p align="center"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/Dino_non-birthday_version.gif"/></p>
  
 <div align="center">
