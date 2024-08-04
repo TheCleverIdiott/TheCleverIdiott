@@ -20,7 +20,6 @@
 </div>
 <!-- <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a> -->
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/aritraghosh.png"></img></a>
-<img src = "https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/tumblr_mr3uapgZ511s1k544o1_500.gif" height=88></a> 
 <!-- <a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/v2/LInQnVA9jaKbNYUEoUkEU.png?type=default&r=wnf" width="356" alt="Aritra Ghosh's Dev Card"/></a> -->
 <hr>
 
@@ -50,7 +49,8 @@ I'm always on the lookout for opportunities to collaborate and learn.
 ‎  ‎ ‎ <a href = "https://www.facebook.com/thecleveridiott/"><img src = "https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=38></a>
 ‎  ‎ ‎ <a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=light" height=38></a>
-‎  ‎ ‎ <a href = "https://leetcode.com/Aritra_G/"><img src = "https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height=38></a>‎
+‎  ‎ ‎ <a href = "https://leetcode.com/Aritra_G/"><img src = "https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height=38></a>‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎  <img src = "https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/tumblr_mr3uapgZ511s1k544o1_500.gif" height=48></a> 
+‎
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
