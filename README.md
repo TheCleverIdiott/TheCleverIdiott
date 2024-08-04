@@ -106,23 +106,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - 👾 Appwrite Octernship
 - 🎉 Hacktoberfest 2022, 2023 Participant
   
-| --- | --- |
-| --- | --- |
-| 🏆 | Team Lead, Winning Team at SIH 2023 |
-| 🥇 | National Winner at CodeRush 2023, HackBrewer 2023 |
-| 🥈 | Top 10 at SRM MozoHacks |
-| 🥇 | Best Open Innovation at DUHacks |
-| 🥉 | 3rd place at Jadavpur University Convolution 7.0 |
-| 📄 | Published Research Papers in IJSRED and IEMTRONICS |
-| 💼 | Ex ObjectSol Technologies |
-| 🌐 | Research Associate at IIC |
-| 💻 | Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd. |
-| 🌟 | Web Developer Intern at Karmactive India |
-| 🚀 | Summer Intern at Timechain Labs |
-| 🌀 | Appwrite Octernship |
-| 🎉 | Hacktoberfest 2022, 2023 Participant |
-
-
 
 <!--
 <h3>🛠 Tech Stack:</h3>
