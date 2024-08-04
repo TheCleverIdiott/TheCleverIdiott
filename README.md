@@ -55,13 +55,14 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 
 <!--<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e" width="400" alt="Aritra Ghosh's Dev Card"/></a>-->
-<!--TYPING
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=900&size=21&pause=1000&color=6614e1&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=AI%2FML%2C+Web+Dev+%2COpensource%2C+Blogs)](https://git.io/typing-svg)
+<!--TYPING-->
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=900&size=21&pause=1000&color=6614e1&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=AI%2FML%2C+Web+Dev+%2COpensource%2C+Blogs)](https://git.io/typing-svg)-->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Web+Dev%2C+AI/ML%2C+Open+Source%2C+Blogs)](https://git.io/typing-svg)-->
+
 <!--LINE-->
-<!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!--QUOTES-->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)-->
 
 <!--<div align = 'center'>
 <h3>Would love to connect 🤝</h3>
@@ -75,7 +76,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 <!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
 
-<hr>
+<!--<hr>-->
 
 **<h3>Higlights: </h3>**
 
