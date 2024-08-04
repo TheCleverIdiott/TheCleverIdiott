@@ -38,6 +38,8 @@ Actively seeking job opportunities in the field of AI/ML.
   
 I'm always on the lookout for opportunities to collaborate and learn. 
 
+**Connect with me on:**
+
 
 <!--<h3 align='left'>Socials: </h2>-->
 ‎  ‎ ‎ <a href = "mailto:hello@aritra-ghosh.me"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
@@ -73,8 +75,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 </div>-->
 <!-- <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=medium&theme=dark" height=38></a> -->
-
-<!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
 
 <!--<hr>-->
 
