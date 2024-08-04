@@ -78,7 +78,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 <!--<hr>-->
 
-**<h3>Higlights: </h3>**
+<!--**<h3>Higlights: </h3>**-->
 <!--
 - <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
 - <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
@@ -92,6 +92,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - <a href="https://iemtronics.org/wp-content/uploads/2024/04/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
 - <a href="https://github.com/appwrite">Appwrite Octernship</a>
 -->
+
+<!--
 - 🏆 Team Lead, Winning Team at SIH 2023
 - 🥇 National Winner at CodeRush 2023, HackBrewer 2023
 - 🏅 Top 10 at SRM MozoHacks
@@ -105,7 +107,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - 🚀 Summer Intern at Timechain Labs
 - 👾 Appwrite Octernship
 - 🎉 Hacktoberfest 2022, 2023 Participant
-  
+-->
 
 <!--
 <h3>🛠 Tech Stack:</h3>
@@ -119,7 +121,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 | Programming Languages | <img src="https://skillicons.dev/icons?i=c,cpp,java,py" height=38> |
 | Others | <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino" height=38> |
 -->
-  
+
+
+<!--
 <h4>Certificates: </h4>
 
 - <a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a>
@@ -128,6 +132,46 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - <a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)
 - <a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a>
 - <a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)
+-->
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>Highlights:</h3>
+        <ul>
+          <li>🏆 Team Lead, Winning Team at SIH 2023</li>
+          <li>🥇 National Winner at CodeRush 2023, HackBrewer 2023</li>
+          <li>🥈 Top 10 at SRM MozoHacks</li>
+          <li>🥇 Best Open Innovation at DUHacks</li>
+          <li>🥉 3rd place at Jadavpur University Convolution 7.0</li>
+          <li>📄 Published Research Papers in IJSRED and IEMTRONICS</li>
+          <li>💼 Ex ObjectSol Technologies</li>
+          <li>🌐 Research Associate at IIC</li>
+          <li>💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
+          <li>🌟 Web Developer Intern at Karmactive India</li>
+          <li>🚀 Summer Intern at Timechain Labs</li>
+          <li>🌀 Appwrite Octernship</li>
+          <li>🎉 Hacktoberfest 2022, 2023 Participant</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <h3>Certificates:</h3>
+        <ul>
+          <li><a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a></li>
+          <li><a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a></li>
+          <li><a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a></li>
+          <li><a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)</li>
+          <li><a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a></li>
+          <li><a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <hr>
 
