@@ -24,10 +24,10 @@
 <hr>
 
 
-<h4 align='left'>👋 Hey there</h4>
+<h4 align='left'>👋 Hey there, I'm Aritra!</h4>
 
 
-I'm Aritra, a final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
+I'm a final Year CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, India. With a knack for problem-solving and a passion for AI/ML, I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, and Web Development.</p>
 Currently working on training a LLM using LSTM networks to provide accurate responses to specific queries from a custom KB and integrating it with LlamaIndex + RAG.</p>
 Actively seeking job opportunities in the field of AI/ML.
 - Find out more about me from my **<a href="https://aritraghosh.co/">website</a>**
@@ -92,13 +92,33 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - <a href="https://iemtronics.org/wp-content/uploads/2024/04/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
 - <a href="https://github.com/appwrite">Appwrite Octernship</a>
 -->
-- 🥇 Team Lead, Winning Team at SIH 2023
+- 🏆 Team Lead, Winning Team at SIH 2023
+- 🥇 National Winner at CodeRush 2023, HackBrewer 2023
+- 🏅 Top 10 at SRM MozoHacks
+- 🥇 Best Open Innovation at DUHacks
+- 🥉 3rd place at Jadavpur University Convolution 7.0
 - 📄 Published Research Papers in IJSRED and IEMTRONICS
-- 🏆 Hackathon Winner at CodeRush 2023, HackBrewer 2023
+- 💼 Ex ObjectSol Technologies
 - 🌐 Research Associate at IIC
 - 💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.
 - 🌟 Web Developer Intern at Karmactive India
+- 🚀 Summer Intern at Timechain Labs
+- 👾 Appwrite Octernship
+- 🎉 Hacktoberfest 2022, 2023 Participant
 
+
+<!--
+<h3>🛠 Tech Stack:</h3>
+
+| Category | Skills |
+| --- | --- |
+| Web Development | <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38> |
+| Design & Editing | <img src="https://skillicons.dev/icons?i=figma,canva" height=38> |
+| DBMS and AI/ML | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,tensorflow,pytorch,opencv,pandas,scikit_learn" height=38> |
+| Development Tools | <img src="https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git" height=38> |
+| Programming Languages | <img src="https://skillicons.dev/icons?i=c,cpp,java,py" height=38> |
+| Others | <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino" height=38> |
+-->
   
 <h4>Certificates: </h4>
 
