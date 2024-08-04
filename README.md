@@ -61,7 +61,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 <!--LINE-->
 <!--<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>-->
 <!--QUOTES-->
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)-->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
 
 <!--<div align = 'center'>
 <h3>Would love to connect 🤝</h3>
