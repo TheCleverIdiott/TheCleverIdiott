@@ -79,7 +79,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 <!--<hr>-->
 
 **<h3>Higlights: </h3>**
-
+<!--
 - <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
 - <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
 - <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Web Developer Intern - Karmactive India, cruxbuzz.com - Remote</a>
@@ -91,6 +91,13 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - <a href="https://www.holopin.io/@thecleveridiot#">Hacktoberfest 2022, 2023</a>
 - <a href="https://iemtronics.org/wp-content/uploads/2024/04/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
 - <a href="https://github.com/appwrite">Appwrite Octernship</a>
+-->
+- 🥇 Team Lead, Winning Team at SIH 2023
+- 📄 Published Research Papers in IJSRED and IEMTRONICS
+- 🏆 Hackathon Winner at CodeRush 2023, HackBrewer 2023
+- 🌐 Research Associate at IIC
+- 💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.
+- 🌟 Web Developer Intern at Karmactive India
 
   
 <h4>Certificates: </h4>
