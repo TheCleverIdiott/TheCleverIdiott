@@ -58,7 +58,7 @@ Ask me in person for other stories that I'm afraid to share with the internet. â
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=300&size=15&pause=200&color=ff5050&center=false&vCenter=false&width=800&lines=You+can+text+me+anything+!+Really!;Well+not+anything...+but+most+things;Like,+Hey!+would+you+like+to+collaborate+sometime?;or,+how+did+you+do+this+project?;you+can+aslo+text+me+with+specific+topics;like+just+saying+'hi';or+I+really+like+your+project!;or+this+project+can+be+improved...;Thanks!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=300&size=14&pause=200&color=ff5050&center=false&vCenter=false&width=800&lines=You+can+text+me+anything+!+Really!;Well+not+anything...+but+most+things;Like,+Hey!+would+you+like+to+collaborate+sometime?;or,+how+did+you+do+this+project?;you+can+aslo+text+me+with+specific+topics;like+just+saying+'hi';or+I+really+like+your+project!;or+this+project+can+be+improved...;Thanks!" alt="Typing SVG" />
 
 
 <!--<a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/d4bfb30cd94941e583d4295e7d629dcf.png?r=c1e" width="400" alt="Aritra Ghosh's Dev Card"/></a>-->
