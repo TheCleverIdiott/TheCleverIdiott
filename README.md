@@ -216,31 +216,7 @@ Ask me in person for other stories that I'm afraid to share with the internet. â
 
 <hr>
 
-
-
-<h3>Latest Blogs:</h3>
-
-<!--- 1 --->
-<p align="left">
-<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog5.jpeg" width="180px" align="left"/></a>
-<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><strong>How I won SIH 2023</strong></a>
-<br/>The journey began when I returned from Mumbai after completing my internship, marking my first solo experience in a new city. Little did I know that life had more challenges in store for me. In August, the SIH registrations were announced, and I knew I couldnâ€™t miss this opportunity...<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2">(Read More)</a> </p> <br/> <br/>
-
-<!--- 2 --->
-<p align="left">
-<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
-<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
-<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects  Bun.js and Node.js are two competitors that have lately aroused interest in the community. While Bun...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
-
-<!--- 3 --->
-<p align="left">
-<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog2.png" width="180px" align="left"/></a>
-<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><strong>Make your GitHub profile stand out!</strong></a>
-<br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to make your profile look amazing. Create a new repository with the same name as your username and make sure all the underlined options are fulfilled...<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63">(Read More)</a> </p> <br/> <br/>
-
-<a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
-
-<hr>
+<!--<hr>-->
 
 <h3>GitHub Metrics:</h3>
 
@@ -272,6 +248,34 @@ Ask me in person for other stories that I'm afraid to share with the internet. â
 <a href="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/metrics.md"><img src="https://img.shields.io/badge/More Metrics-Click Here-blue?style=for-the-badge"></a>
 
 </div>
+
+<hr>
+
+
+
+
+<h3>Latest Blogs:</h3>
+
+<!--- 1 --->
+<p align="left">
+<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog5.jpeg" width="180px" align="left"/></a>
+<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2"><strong>How I won SIH 2023</strong></a>
+<br/>The journey began when I returned from Mumbai after completing my internship, marking my first solo experience in a new city. Little did I know that life had more challenges in store for me. In August, the SIH registrations were announced, and I knew I couldnâ€™t miss this opportunity...<a href="https://medium.com/@the-clever-idiot/sih2023-for-me-0a992877ecc2">(Read More)</a> </p> <br/> <br/>
+
+<!--- 2 --->
+<p align="left">
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog4.png" width="180px" align="left"/></a>
+<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685"><strong>Unravelling the Threads: A Comparative Analysis of Bun.js and Node.js</strong></a>
+<br/>In the ever-changing field of JavaScript frameworks, developers are continuously on the search for tools that streamline their workflow, improve performance, and adapt to the unique demands of their projects  Bun.js and Node.js are two competitors that have lately aroused interest in the community. While Bun...<a href="https://the-clever-idiot.medium.com/unravelling-the-threads-a-comparative-analysis-of-bun-js-and-node-js-415004fd5685">(Read More)</a> </p> <br/> <br/>
+
+<!--- 3 --->
+<p align="left">
+<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><img src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/img/blog2.png" width="180px" align="left"/></a>
+<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63"><strong>Make your GitHub profile stand out!</strong></a>
+<br/>There are innumerable GitHub accounts but how does one make theirs extraordinary? This article provides the full list of cool GitHub features and tweaks to make your profile look amazing. Create a new repository with the same name as your username and make sure all the underlined options are fulfilled...<a href="https://the-clever-idiot.medium.com/how-to-make-your-github-profile-stand-out-4c69fff76f63">(Read More)</a> </p> <br/> <br/>
+
+<a href="https://medium.com/@the-clever-idiot/"><img src="https://img.shields.io/badge/More Blogs-Click Here-green?style=for-the-badge"></a>
+
 
 <hr>
 
