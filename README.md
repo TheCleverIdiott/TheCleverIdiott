@@ -4,9 +4,6 @@
 <!--<div align="right">Go to:</div>--> 
 
 
-
-
-
 <div align="right">
 	
 ‎  ‎ ‎ **<a href="#Hey-there">About</a>**
@@ -21,6 +18,7 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
 </div>
+
 <!-- <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a> -->
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/aritraghosh.png"></img></a>
 <!-- <a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/v2/LInQnVA9jaKbNYUEoUkEU.png?type=default&r=wnf" width="356" alt="Aritra Ghosh's Dev Card"/></a> -->
@@ -70,75 +68,6 @@ Ask me in person for other stories that I'm afraid to share with the internet. �
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!--QUOTES-->
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)-->
-
-<!--<div align = 'center'>
-<h3>Would love to connect 🤝</h3>
-<a href = "https://twitter.com/ughhritra"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height=38></a>
-<a href = "https://www.linkedin.com/in/aritraghosh1905/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
-<a href = "https://dev.to/thecleveridiott"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height=38></a>
-<a href = "https://discordapp.com/users/724983539652886618"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height=38></a>
-</div>-->
-<!-- <a href="https://medium.com/@the-clever-idiot" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href = "https://twitter.com/thecleverridiot"><img src = "https://skillicons.dev/icons?i=medium&theme=dark" height=38></a> -->
-
-<!--<hr>-->
-
-<!--**<h3>Higlights: </h3>**-->
-<!--
-- <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Research Associate IIC</a>
-- <a href="https://www.linkedin.com/posts/aritraghosh1905_connections-activity-7101938755053219840-40XG?utm_source=share&utm_medium=member_desktop">Machine Learning Intern (Data Analytics Team) - CareEdge Risk Solutions Pvt. Ltd. - Mumbai, India</a>
-- <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Web Developer Intern - Karmactive India, cruxbuzz.com - Remote</a>
-- <a href="https://www.linkedin.com/in/aritraghosh1905/details/experience/">Timechain Labs Summer Intern</a>
-- <a href="https://www.linkedin.com/posts/aritraghosh1905_smartindiahackathon-sih2023-teamgeek6-activity-7144994433355198464-ajIw?utm_source=share&utm_medium=member_desktop">Team Lead, Winning Team SIH 2023 - Open Innovation Track (MoE India, AICTE)</a>
-- <a href="https://www.linkedin.com/posts/aritraghosh1905_hackathon-winners-code-activity-7037406219279499264-z5EP?utm_source=share&utm_medium=member_desktop">CodeRush 2023 (Winner), HackBrewer 2023 (Winner), DUHacks (Top 15), MozoHacks(Top 10)</a>
-- <a href="https://www.linkedin.com/posts/aritraghosh1905_hello-everyone-im-glad-to-announce-that-activity-7061234284430327808--WFu?utm_source=share&utm_medium=member_desktop">SparkHacks 7.0 Runners-Up, Convolution 7.0 (Jadavpur Unversity)</a>
-- <a href="https://drive.google.com/file/d/1cxfxsig-bhoEsBpHewUzRSFPcEFx4nQ-/view">Authored and Published a Research Paper Titled "Application of AI in the Prevention and Awareness of Domestic Violence" in IJSRED [Volume-5, Issue-5]</a>
-- <a href="https://www.holopin.io/@thecleveridiot#">Hacktoberfest 2022, 2023</a>
-- <a href="https://iemtronics.org/wp-content/uploads/2024/04/IEMTRONICS-2024-Conference-Proceedings-1.pdf">Co-authored a Research Paper titled "An Analytical Survey of Summarization Methodologies" in IEMTRONICS 2024 (Scopus Indexed)[697]</a>
-- <a href="https://github.com/appwrite">Appwrite Octernship</a>
--->
-
-<!--
-- 🏆 Team Lead, Winning Team at SIH 2023
-- 🥇 National Winner at CodeRush 2023, HackBrewer 2023
-- 🏅 Top 10 at SRM MozoHacks
-- 🥇 Best Open Innovation at DUHacks
-- 🥉 3rd place at Jadavpur University Convolution 7.0
-- 📄 Published Research Papers in IJSRED and IEMTRONICS
-- 💼 Ex ObjectSol Technologies
-- 🌐 Research Associate at IIC
-- 💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.
-- 🌟 Web Developer Intern at Karmactive India
-- 🚀 Summer Intern at Timechain Labs
-- 👾 Appwrite Octernship
-- 🎉 Hacktoberfest 2022, 2023 Participant
--->
-
-<!--
-<h3>🛠 Tech Stack:</h3>
-
-| Category | Skills |
-| --- | --- |
-| Web Development | <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38> |
-| Design & Editing | <img src="https://skillicons.dev/icons?i=figma,canva" height=38> |
-| DBMS and AI/ML | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,tensorflow,pytorch,opencv,pandas,scikit_learn" height=38> |
-| Development Tools | <img src="https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git" height=38> |
-| Programming Languages | <img src="https://skillicons.dev/icons?i=c,cpp,java,py" height=38> |
-| Others | <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino" height=38> |
--->
-
-
-<!--
-<h4>Certificates: </h4>
-
-- <a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a>
-- <a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a>
-- <a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a>
-- <a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)
-- <a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a>
-- <a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)
--->
-
 
 <div align="center">
   <table>
