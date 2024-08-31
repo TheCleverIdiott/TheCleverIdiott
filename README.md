@@ -19,6 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
 </div>
 
+
 <!-- <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/devcard.png"></img></a> -->
 <a href="https://app.daily.dev/aritraghosh"><img align="right" alt="Aritra Ghosh's Dev Card" width="230" src="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/aritraghosh.png"></img></a>
 <!-- <a href="https://app.daily.dev/aritraghosh"><img src="https://api.daily.dev/devcards/v2/LInQnVA9jaKbNYUEoUkEU.png?type=default&r=wnf" width="356" alt="Aritra Ghosh's Dev Card"/></a> -->
