@@ -28,7 +28,7 @@
 
 <h4 align='left'>👋 Hey there, I'm Aritra!</h4>
 
-I'm a CS Grad from Kolkata, India, with a knack for problem-solving and a passion for AI. I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, Backend Development and System Design.</p>
+I'm from Kolkata, India, with a knack for problem-solving and a passion for AI. I'm actively seeking roles that fuse my expertise in AI/ML, Data Analysis, Backend Development and System Design.</p>
 
 - Find out more about me from my **<a href="https://aritraghosh.co/">website</a>**
 - or download my **<a href="https://drive.google.com/file/d/1X74AtX0tHHnVrmQmfbjYsHQFRNp_vHKX/view">resume</a>**.
