@@ -34,6 +34,9 @@ I'm from Kolkata, India, with a knack for problem-solving and a passion for AI. 
 - or download my **<a href="https://drive.google.com/file/d/1X74AtX0tHHnVrmQmfbjYsHQFRNp_vHKX/view">resume</a>**.
 <!-- - or reach out to me via **<a href="mailto:hello@aritra-ghosh.me">email</a>**. -->
 
+<br/>
+<br/>
+<br/>
 
   
 I'm always on the lookout for opportunities to collaborate and learn. 
