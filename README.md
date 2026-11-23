@@ -153,8 +153,11 @@ Ask me in person for other stories that I'm afraid to share with the internet. â
 <h3>GitHub Metrics:</h3>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)-->
+<div align="center">
+	
+[![trophy](https://github-trophies.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true)](https://github.com/thecleveridiott)
 
-[![trophy](https://github-trophies.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/thecleveridiott)
+</div>
 
 <!--<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="thecleveridiott" /></a></p>-->
 
